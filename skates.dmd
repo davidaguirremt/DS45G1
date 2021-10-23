@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="skates" id="FB8D49AB-598A-C8EB-2F9E-041B1075C62E" version="3.5">
+<createdBy>David Aguirre</createdBy>
+<createdTime>2021-10-22 01:02:35 UTC</createdTime>
+<ownerDesignName>skates</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FB8D49AB-598A-C8EB-2F9E-041B1075C62E</designId>
+</OSDM_Design>
